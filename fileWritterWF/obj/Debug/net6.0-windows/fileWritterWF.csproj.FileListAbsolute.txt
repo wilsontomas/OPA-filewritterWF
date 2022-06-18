@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\bin\Debug\net6.0-windows\fileWritterWF.exe
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\bin\Debug\net6.0-windows\fileWritterWF.deps.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\bin\Debug\net6.0-windows\fileWritterWF.runtimeconfig.json
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\bin\Debug\net6.0-windows\fileWritterWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\bin\Debug\net6.0-windows\fileWritterWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.Form1.resources
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.AssemblyInfo.cs
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\refint\fileWritterWF.dll
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.pdb
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\fileWritterWF.genruntimeconfig.cache
+C:\Users\pc\Desktop\UCE 2022 C2\Optimizacion de algoritmos\practica 20-5-2022\fileWritterWF\fileWritterWF\obj\Debug\net6.0-windows\ref\fileWritterWF.dll
